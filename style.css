@@ -1,0 +1,18 @@
+i {
+    display: block;
+}
+
+.button_container {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 30px;
+}
+
+.container {
+    text-align: center;
+}
+
+.result {
+    color: blue;
+    margin-bottom: 20px;
+}
